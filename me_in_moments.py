@@ -148,7 +148,7 @@ if st.session_state.res_df is not None:
         for idx, result in filtered_results.iterrows():
             
             
-            st.subheader(f"Match Found - Image: {result['image_path'].split("\\")[-1]}")
+            st.subheader(f"Match Found - Image: {result['image_path'].split("/")[-1]}")
             st.image(result['image_path'], caption=f"Similarity Score: {result['similarity_score']:.2f}")
             # st.text(f"Reference Image Type: {result['ref_image_type']} - Target Image Type: {result['target_image_type']}")
 
