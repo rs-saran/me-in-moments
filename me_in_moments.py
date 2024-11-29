@@ -130,7 +130,7 @@ if st.session_state.res_df is not None:
     # Display the results
     if len(filtered_results) > 0:
 
-        zip_path = os.path.join(workspace_manager.base_workspace, "meinmoments_matching_images.zip")
+        zip_path = "meinmoments_matching_images.zip"
 
         with zipfile.ZipFile(zip_path, "w") as zipf:
             for idx, result in filtered_results.iterrows():
