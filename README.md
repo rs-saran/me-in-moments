@@ -4,7 +4,7 @@
 
 Try it [here](https://meinmoments.streamlit.app/)
 
-Read about the implementation details [here](todo://blog-link)
+Read about the implementation details [here](https://rs-saran.github.io/projects/20241201_me_in_moments/)
 
 ### 🎯 **Features**  
 - **Facial Similarity Search:** Upload your photo and search through event photos for matching faces.  
@@ -16,13 +16,6 @@ Read about the implementation details [here](todo://blog-link)
 - **DeepFace:** For facial recognition and similarity computation.  
 - **OpenCV:** For image processing and manipulation.  
 - **Streamlit:** For building an interactive web interface.  
-
-### 🎥 Demo Video
-Check out the demo of the app in action:
-<video width="800" controls>
-  <source src="streamlit-me_in_moments-demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 ### 🚀 **How to Run the App**  
 1. Clone this repository:  
