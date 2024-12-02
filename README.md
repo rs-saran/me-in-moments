@@ -6,6 +6,8 @@ Try it [here](https://meinmoments.streamlit.app/)
 
 Read about the implementation details [here](https://rs-saran.github.io/projects/20241201_me_in_moments/)
 
+Watch the [demo](https://youtu.be/33GBwMw669M)
+
 ### 🎯 **Features**  
 - **Facial Similarity Search:** Upload your photo and search through event photos for matching faces.  
 - **Adjustable Similarity Threshold:** Fine-tune the matching sensitivity to get accurate results.  
